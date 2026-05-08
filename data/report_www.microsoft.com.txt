@@ -1,0 +1,7 @@
+Relatorio para: https://www.microsoft.com
+Data: 2026-05-08 11:25:59.958207
+----------------------------------------
+[X] AUSENTE | Content-Security-Policy
+[V] PRESENTE | Strict-Transport-Security
+[X] AUSENTE | X-Frame-Options
+[X] AUSENTE | X-Content-Type-Options

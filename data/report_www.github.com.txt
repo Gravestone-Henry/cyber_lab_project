@@ -1,0 +1,7 @@
+Relatorio para: https://www.github.com
+Data: 2026-05-08 11:25:59.529516
+----------------------------------------
+[V] PRESENTE | Content-Security-Policy
+[V] PRESENTE | Strict-Transport-Security
+[V] PRESENTE | X-Frame-Options
+[V] PRESENTE | X-Content-Type-Options

@@ -1,0 +1,7 @@
+Relatorio para: https://www.google.com
+Data: 2026-05-08 11:25:59.093856
+----------------------------------------
+[X] AUSENTE | Content-Security-Policy
+[X] AUSENTE | Strict-Transport-Security
+[V] PRESENTE | X-Frame-Options
+[X] AUSENTE | X-Content-Type-Options
